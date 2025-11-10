@@ -1,0 +1,27 @@
+name: dockercompose3362753839160968241
+services:
+  dbsyncservice:
+    build:
+      context: C:\Users\brijb\Desktop\Abhay\Project\Test\DBSyncService
+      dockerfile: DBSyncService/Dockerfile
+    environment:
+      DOTNET_ENVIRONMENT: Development
+    image: dbsyncservice
+    networks:
+      default: null
+    volumes:
+      - type: bind
+        source: C:\Users\brijb\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\brijb\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose3362753839160968241_default

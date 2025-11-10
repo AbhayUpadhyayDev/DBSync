@@ -1,0 +1,6 @@
+services:
+  dbsyncservice:
+    image: ${DOCKER_REGISTRY-}dbsyncservice
+    build:
+      context: .
+      dockerfile: DBSyncService/Dockerfile

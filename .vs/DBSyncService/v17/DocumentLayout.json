@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brijb\\Desktop\\Abhay\\Project\\Test\\DBSyncService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1555195D-0A66-4F67-8097-29D2058A8454}|DBSyncService\\DBSyncService.csproj|c:\\users\\brijb\\desktop\\abhay\\project\\test\\dbsyncservice\\dbsyncservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1555195D-0A66-4F67-8097-29D2058A8454}|DBSyncService\\DBSyncService.csproj|solutionrelative:dbsyncservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1555195D-0A66-4F67-8097-29D2058A8454}|DBSyncService\\DBSyncService.csproj|c:\\users\\brijb\\desktop\\abhay\\project\\test\\dbsyncservice\\dbsyncservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1555195D-0A66-4F67-8097-29D2058A8454}|DBSyncService\\DBSyncService.csproj|solutionrelative:dbsyncservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\brijb\\Desktop\\Abhay\\Project\\Test\\DBSyncService\\DBSyncService\\Worker.cs",
+              "RelativeDocumentMoniker": "DBSyncService\\Worker.cs",
+              "ToolTip": "C:\\Users\\brijb\\Desktop\\Abhay\\Project\\Test\\DBSyncService\\DBSyncService\\Worker.cs",
+              "RelativeToolTip": "DBSyncService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:14:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brijb\\Desktop\\Abhay\\Project\\Test\\DBSyncService\\DBSyncService\\appsettings.json",
+              "RelativeDocumentMoniker": "DBSyncService\\appsettings.json",
+              "ToolTip": "C:\\Users\\brijb\\Desktop\\Abhay\\Project\\Test\\DBSyncService\\DBSyncService\\appsettings.json",
+              "RelativeToolTip": "DBSyncService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T11:00:02.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
