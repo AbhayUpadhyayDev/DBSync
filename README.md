@@ -29,3 +29,5 @@ A high-performance .NET Core Worker Service that synchronizes multiple MSSQL dat
 1. The worker service runs in the background and automatically syncs MSSQL data to Redis.
 2. Supports real-time updates with configurable batch size.
 3. Can be deployed as a Windows Service or Linux daemon.
+
+![DBSync Stats](https://github-readme-stats.vercel.app/api/pin/?username=AbhayUpadhyayDev&repo=DBSync)
